@@ -12,8 +12,7 @@
   </a>
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.solomennikov@g.nsu.ru)
-
+[Написать на почту](mailto:n.solomennikov@g.nsu.ru)
 
 <div align="center">
   <img src="/nikvel.gif?raw=true" alt="Анимированный никнейм" width="200"/>
