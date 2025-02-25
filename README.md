@@ -7,12 +7,10 @@
   <a href="https://vk.com/nikvel1">
     <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
-  <a href="mailto:n.solomennikov@g.nsu.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:n.solomennikov@g.nsu.ru">
+    <img src="https://img.shields.io/badge/n.solomennikov@g.nsu.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-[Написать на почту](mailto:n.solomennikov@g.nsu.ru)
 
 <div align="center">
   <img src="/nikvel.gif?raw=true" alt="Анимированный никнейм" width="200"/>
