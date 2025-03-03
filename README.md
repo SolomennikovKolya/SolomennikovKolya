@@ -10,6 +10,9 @@
   <a href="mailto:n.solomennikov@g.nsu.ru">
     <img src="https://img.shields.io/badge/n.solomennikov@g.nsu.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="/docs/Соломенников Николай - резюме.pdf">
+    <img src="https://img.shields.io/badge/Резюме-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Резюме">
+  </a>
 </p>
 
 <div align="center">
